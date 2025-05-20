@@ -1,6 +1,6 @@
 # Main Title
 
-![메인 프로젝트 이미지](https://github.com/user-attachments/assets/a695cd21-8bf5-48d9-a903-f92adde1c45e)(https://project1-5qsf4kknnrbemwyxhxgqmu.streamlit.app/)
+[![메인 프로젝트 이미지](https://github.com/user-attachments/assets/a695cd21-8bf5-48d9-a903-f92adde1c45e)](https://project1-5qsf4kknnrbemwyxhxgqmu.streamlit.app/)
 
 
 <div style="display: flex; justify-content: space-between;">
